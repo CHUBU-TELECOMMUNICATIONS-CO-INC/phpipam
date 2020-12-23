@@ -4630,8 +4630,8 @@ msgstr "検索フィールドに何か入力してください"
 #: /var/www/phpipam/app/admin/replace-fields/result.php:31
 #: /var/www/phpipam/app/admin/replace-fields/result.php:32
 #: /var/www/phpipam/app/subnets/addresses/export-field-select.php:91
-msgid "Switch"
-msgstr "スイッチ"
+#msgid "Switch"
+#msgstr "スイッチ"
 
 #: /var/www/phpipam/app/admin/replace-fields/result.php:31
 #: /var/www/phpipam/app/admin/replace-fields/result.php:32
@@ -6195,12 +6195,12 @@ msgid "Database settings"
 msgstr "データベース設定"
 
 #: /var/www/phpipam/app/admin/powerDNS/settings.php:38
-msgid "Host"
-msgstr "ホスト"
+#msgid "Host"
+#msgstr "ホスト"
 
 #: /var/www/phpipam/app/admin/powerDNS/settings.php:46
-msgid "Database"
-msgstr "データベース"
+#msgid "Database"
+#msgstr "データベース"
 
 #: /var/www/phpipam/app/admin/powerDNS/settings.php:74
 msgid "Autoserial"
@@ -7314,7 +7314,7 @@ msgstr "ラックドローモジュールを有効または無効にする"
 
 #: /var/www/phpipam/app/admin/settings/index.php:373
 msgid "Circuits module"
-msgstr "ロケーションモジュール"
+msgstr "サーキット モジュール"
 
 #: /var/www/phpipam/app/admin/settings/index.php:378
 msgid "Enable or disable Circuits module"
@@ -7322,7 +7322,7 @@ msgstr "DHCPモジュールを有効または無効にします"
 
 #: /var/www/phpipam/app/admin/settings/index.php:384
 msgid "Locations module"
-msgstr "ロケーションモジュール"
+msgstr "ロケーション モジュール"
 
 #: /var/www/phpipam/app/admin/settings/index.php:389
 msgid "Enable or disable locations module"
@@ -11573,3 +11573,20 @@ msgstr "サーキットマップ"
 
 #~ msgid "Attributes not found"
 #~ msgstr "属性が見つかりません"
+
+
+# --- append --
+msgid "Inactive Hosts"
+msgstr "非アクティブホスト"
+
+msgid "Scanned networks"
+msgstr "スキャンされたネットワーク"
+
+msgid "Duplicates"
+msgstr "重複したデータ"
+
+msgid "Duplicated subnets"
+msgstr "重複したサブネット"
+
+msgid "Duplicated hosts"
+msgstr "重複したホスト"
